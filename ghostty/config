@@ -1,0 +1,15 @@
+window-padding-x = 20
+window-padding-y = 20
+
+background-opacity = 0.3
+
+background = #000000
+foreground = #FFFFFF
+cursor-color = #333333
+selection-background = #333333
+selection-foreground = #CCCCCC
+font-size = 8.5
+confirm-close-surface = false
+
+gtk-single-instance = true
+
